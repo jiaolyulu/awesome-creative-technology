@@ -79,15 +79,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Oat Foundry](https://www.oatfoundry.com/)** | \[Philadelphia] | _split-flap displays, electromechanical stuff, think tank, products, experiences_ |
 | **[Onformative](https://onformative.com/)** | \[Berlin] | _studio for digital art and design, challenge the boundaries between art and design and technology_ |
 | **[Optimist](https://optimistinc.com/)** | \[LA] \[NYC] \[London] \[Amsterdam] \[Hamburg] \[Berlin] \[Prague] | _architects of subculture, creative, design, strategy_ |
-| **[Geeksart](http://geeks-art.com/)** | \[Guangzhou][Shanghai] | _media sculptures, new media exhibition_ |
-| **[Seeeklab](https://www.seeeklab.com/en/)** | \[Xiamen] | _marketing events, interactive installation_ |
-| **[Wonderlabs](https://www.wonderlabsstudio.com/)** | \[Shanghai] | _marketing events, interactive installation_ |
-| **[Blackbow](https://www.blackbow.cn/)** | \[Beijing] | _projection mapping, digital art and cultural experiences =_ |
-| **[Motse](https://www.behance.net/motseart/projects)** | \[Shenzhen] | _digital art_ |
-| **[Blublu](http://www.blu-blu.com/)** | \[Hangzhou] | _projection mapping, immersive experiences for museums and workspace_ |
-| **[Digifun](http://www.digitalfun.net/)** | \[Shanghai | _projection mapping, new media art education_ |
-| **[Nowhere](https://studionowhere.com/)** | \[Shanghai] | _marketing events,  interactive experiences_ |
-| **[Burnlab](www.burncg.cn)** | \[Chengdu] | _kinetic installations for hotels and malls_ |production, content, brand experience_ |
 | **[Patten Studio](https://www.pattenstudio.com/)** | \[NYC] | _informed by research at the MIT Media Lab, experiences that connect people_ |
 | **[Potion Design](https://www.potiondesign.com/)** | \[NYC] | _design and technology studio, interactive, musuems_ |
 | **[Rare Volume](https://rarevolume.com/)** | \[NYC] | _design and technology studio, interactive video walls_ |
@@ -107,7 +98,15 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[VVOX](https://volvoxlabs.com/)** | \[NYC] \[LA] | _high-end design, code, fabrication, sound_ |
 | **[VTProDesign](https://vtprodesign.com/)** | \[LA] | _high tech robotics and projection mapping_ |
 | **[Yellow Studio](https://yellowstudio.com/)** | \[NYC] | _artistically-minded design, tv/concert/event production design, set design_ |
-
+| **[Geeksart](http://geeks-art.com/)** | \[Guangzhou][Shanghai] | _media sculptures, new media exhibition_ |
+| **[Seeeklab](https://www.seeeklab.com/en/)** | \[Xiamen] | _marketing events, interactive installation_ |
+| **[Wonderlabs](https://www.wonderlabsstudio.com/)** | \[Shanghai] | _marketing events, interactive installation_ |
+| **[Blackbow](https://www.blackbow.cn/)** | \[Beijing] | _projection mapping, digital art and cultural experiences =_ |
+| **[Motse](https://www.behance.net/motseart/projects)** | \[Shenzhen] | _digital art_ |
+| **[Blublu](http://www.blu-blu.com/)** | \[Hangzhou] | _projection mapping, immersive experiences for museums and workspace_ |
+| **[Digifun](http://www.digitalfun.net/)** | \[Shanghai | _projection mapping, new media art education_ |
+| **[Nowhere](https://studionowhere.com/)** | \[Shanghai] | _marketing events,  interactive experiences_ |
+| **[Burnlab](www.burncg.cn)** | \[Chengdu] | _kinetic installations for hotels and malls_ |production, content, brand experience_ |
 
 ## Collectives & Practices
 
