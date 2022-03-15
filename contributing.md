@@ -5,9 +5,6 @@ All submissions must take the form of:
 ```
 | **[Name](website)** | \[Location1] \[Location2] ... \[Location N] | _comma-separated, lowercase, keyword description, usually grabbed from website_ |
 ```
-| Name | Locations | Keywords |
-|---|:---:|---|
-| **[Lu Lyu](https://www.lu-lyu.com/portfolio/)** | \[NYC] \[Shanghai] | _kinetic interactive installations_ | 
 
 And must be in alphabetical order per section.
 
